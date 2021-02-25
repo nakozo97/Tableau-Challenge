@@ -2,4 +2,4 @@
 
 ## Citi Bike Analytics
 
-![](/blob/main/Images/citibikelogo.gif)
+![](/Images/citibikelogo.gif)
