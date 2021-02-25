@@ -2,4 +2,4 @@
 
 ## Citi Bike Analytics
 
-![](/Images/citibikelogo.gif)
+![](/Images/citi-bike-station-bikes.jpg)
