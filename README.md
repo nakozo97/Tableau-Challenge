@@ -49,7 +49,7 @@ https://public.tableau.com/views/Tableau_challenge_citibike_TopStartingStationsM
 ### Task 3: Visualizations - Dynamic Map
 
 ![Map-StartStation](Images/map_startstation.png)
-
+- - -
 ![Map-EndStation](Images/map_endstation.png)
 
 ### Task 4: Phenomenons Analysis
@@ -69,13 +69,13 @@ https://public.tableau.com/views/Tableau_challenge_citibike_TopStartingStationsM
 * Maintenance Recommendation: 
 The following Citi Bikes should be should be maintenanced and/or replaced due to tripduration distance and utilization trip count. 
 
-* Bikeid: 42197 - Highest Tripduration;
+** Bikeid: 42197 - Highest Tripduration;
 42535 - 2nd Highest;
 38355 - 3rd Highest;
 42532 - 4th Highest;
 42228 - 5th Highest;
 
-* Bikeid: 42296 - Highest Trip Count;
+** Bikeid: 42296 - Highest Trip Count;
 42545 - 2nd Highest;
 42134 - 3rd Highest;
 42298 - 4th Highest;
