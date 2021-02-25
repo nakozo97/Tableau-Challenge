@@ -16,8 +16,72 @@ https://public.tableau.com/views/Tableau_challenge_citibike_TopStartingStationsM
 
 ### Task 1: Unexpected Phenomena
 
-### Task 2: Unexpected Phenomena
+* Top 10 Starting Stations: Grove St PATH, Newport Pkwy, Liberty Light Rail, Hamilton Park, Sip Ave, Harborside, Columbus Dr at Exchange Pl, Marin Light Rail, Newport PATH, and City Hall. 
 
+* Top 10 Ending Stations: Grove St PATH, Liberty Light Rail, Newport Pkwy, Hamilton Park, Harborside, Columbus Dr at Exchange Pl, Sip Ave, Marin Light Rail, Newport PATH, City Hall. 
+
+* Higher Male User % than Female.
+
+* Alarming # of Gender Misinformation from Non-Subscribers.
+
+* More Citi Bike Utilization during morning & afternoon Rush Hour.
+
+* More Millennial Citi Bike users than any other generation. 
+
+* Bike Maintenance is heavier for "Bike Trip Count" than "Bike Trip Duration". 
+
+### Task 2: Dashboards
+
+* Introduction : Citi Bike Analytics
+* Citi Bike Map Start Station : January - June 2020 / Monthly Visual.
+* Citi Bike Map End Station : January - June 2020 / Monthly Visual.
+* Citi Bike Map Start & End Station Table Summary: January - June 2020.
+* Citi Bike Monthly Trip & Gender User Count Comparison.
+* Citi Bike Gender Count & User Type Comparison: January - June 2020. 
+* Citi Bike User Type Comparison (Subscriber vs. Customer): January - June 2020.
+* Citi Bike User Type Utilization By Month Date: January - June 2020.
+* Citi Bike Utilization Unit Count by 24 Hour Time Period: January - June 2020.
+* Citi Bike Age Demographics: January - June 2020. 
+* Citi Bike Maintenance Scatter Plot Recommendations: January - June 2020.
+* Citi Bike Maintenance Bar Graph Recommendations: January - June 2020.
+* End of Report
+
+### Task 3: Visualizations - Dynamic Map
+
+<!-- ![Citi-Bikes](Images/citibikelogo.gif)
+
+![Citi-Bikes](Images/citibikelogo.gif) -->
+
+### Task 4: Phenomenons Analysis
+
+* It would be highly recommended for the Citi Bike Program to install more resources and customer service represenatives near these locations. I believe it will greatly help to retain our current subscribers and incourage new customers by having Citi Bike personnel in these "high traffic" stations.  Also, our Citi bikes must be in top shape in these locations. The last thing we want is for our WORST maintenace bikes to be at our BEST starting and ending location stations. 
+
+* It appears that there is a significantly higher population of Male Citi Bike users than Female users.  Nearly 3x the rate from January to March 2020 & 2x the user rate from May to June 2020. Also, please notice a % increase in the "unknown" gender users who do not trutfully input their gender.
+
+* An increasing % of customers are not truthfully inputting their gender. This could be due to gender classification (no longer labeling sexuality as male/female), customer fear of sharing personal information with Citi Bike, unease of surveillance, dismay of location awareness (user tracking), technologically illiterate, etc. We need to find out why they are doing this!!!
+
+* Although there has been an increase of female ridership from the Citi Bike gender outreach, there is still a significant gap between female/male subscribers and customer/subscriber usertype in general. What additional outreach programs can we create to get more subscribers? What additonal outreach programs can we instill to promote female ridership?
+
+* On average there seems to be a higher rate of Citi Bike users during the middle of the month than towards the end of the month. A similar correlation is seen between Customers and user Subscribers. I would recommend having a promotional outreach program on the first day of each month. Maybe  something like a "Freeride Monday"? We could use the monthly promotion to increase our overall usage rate / user.
+
+* There seems to be a high percentage of Citi Bike users born from 1980 to 1995 for both Male and Female users. This age demographic is significant toward our future marketing campaigns. The Millennial generation is are currently our highest users and Generation X users come in second. This could be due to Millennials wanting to be more environmentally cautious than other age demographics. We should also look at market strategies to attract future Generation Z users.
+
+* Maintenance Recommendation: 
+The following Citi Bikes should be should be maintenanced and/or replaced due to tripduration distance and utilization trip count. 
+
+Bikeid: 
+
+42197 - Highest Tripduration
+42535 - 2nd Highest
+38355 - 3rd Highest
+42532 - 4th Highest
+42228 - 5th Highest
+
+42296 - Highest Trip Count
+42545 - 2nd Highest
+42134 - 3rd Highest
+42298 - 4th Highest
+42258 - 5th Highest
 
 ### Dataset
 
