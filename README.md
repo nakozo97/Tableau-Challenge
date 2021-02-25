@@ -18,19 +18,19 @@ https://public.tableau.com/views/Tableau_challenge_citibike_TopStartingStationsM
 
 * Top 10 Starting Stations: Grove St PATH, Newport Pkwy, Liberty Light Rail, Hamilton Park, Sip Ave, Harborside, Columbus Dr at Exchange Pl, Marin Light Rail, Newport PATH, and City Hall. 
 
-* Top 10 Ending Stations: Grove St PATH, Liberty Light Rail, Newport Pkwy, Hamilton Park, Harborside, Columbus Dr at Exchange Pl, Sip Ave, Marin Light Rail, Newport PATH, City Hall. 
+* Top 10 Ending Stations: Grove St PATH, Liberty Light Rail, Newport Pkwy, Hamilton Park, Harborside, Columbus Dr at Exchange Pl, Sip Ave, Marin Light Rail, Newport PATH, and City Hall. 
 
 * Higher Male User % than Female.
 
 * Alarming # of Gender Misinformation from Non-Subscribers.
 
-* More Citi Bike Utilization during morning & afternoon Rush Hour.
+* More Citi Bike Utilization during Morning (7-9AM) & Afternoon (4-7PM) Rush Hour.
 
-* More Millennial Citi Bike users than any other generation. 
+* More Millennial Citi Bike users than ANY other Generation. 
 
-* Bike Maintenance is heavier for "Bike Trip Count" than "Bike Trip Duration". 
+* Bike Maintenance is HEAVIER for "Bike Trip Count" bike units than "Bike Trip Duration" bike units. 
 
-### Task 2: Dashboards
+### Task 2: Tableau Dashboards
 
 * Introduction : Citi Bike Analytics
 * Citi Bike Map Start Station : January - June 2020 / Monthly Visual.
@@ -71,17 +71,17 @@ The following Citi Bikes should be should be maintenanced and/or replaced due to
 
 Bikeid: 
 
-42197 - Highest Tripduration
-42535 - 2nd Highest
-38355 - 3rd Highest
-42532 - 4th Highest
-42228 - 5th Highest
+* 42197 - Highest Tripduration;
+42535 - 2nd Highest;
+38355 - 3rd Highest;
+42532 - 4th Highest;
+42228 - 5th Highest;
 
-42296 - Highest Trip Count
-42545 - 2nd Highest
-42134 - 3rd Highest
-42298 - 4th Highest
-42258 - 5th Highest
+* 42296 - Highest Trip Count;
+42545 - 2nd Highest;
+42134 - 3rd Highest;
+42298 - 4th Highest;
+42258 - 5th Highest;
 
 ### Dataset
 
