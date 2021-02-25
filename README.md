@@ -46,7 +46,7 @@ https://public.tableau.com/views/Tableau_challenge_citibike_TopStartingStationsM
 * Citi Bike Maintenance Bar Graph Recommendations: January - June 2020.
 * End of Report
 
-### Task 3: Visualizations - Dynamic Maps
+### Task 3: Visualizations - Dynamic Maps (by month & year)
 
 ![Map-StartStation](Images/map_startstation.png)
 - - -
@@ -91,5 +91,19 @@ The following Citi Bikes should be should be maintenanced and/or replaced due to
 * 202004-citibike-tripdata.csv.zip
 * 202005-citibike-tripdata.csv.zip
 * 202006-citibike-tripdata.csv.zip
+
+### Dataset Index
+
+* Trip Duration (seconds)
+* Start Time and Date
+* Stop Time and Date
+* Start Station Name
+* End Station Name
+* Station ID
+* Station Lat/Long
+* Bike ID
+* User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+* Gender (Zero=unknown; 1=male; 2=female)
+* Year of Birth
 
 End of README.md
