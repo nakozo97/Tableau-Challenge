@@ -85,6 +85,7 @@ The following Citi Bikes should be should be maintenanced and/or replaced due to
 
 * [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
+* Citi Bike Trip Histories
 * 202001-citibike-tripdata.csv.zip
 * 202002-citibike-tripdata.csv.zip
 * 202003-citibike-tripdata.csv.zip
